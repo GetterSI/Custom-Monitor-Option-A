@@ -9258,5 +9258,208 @@
     "new_baseline": 0,
     "started_at": "2026-10-01T08:09:15.082146Z",
     "unchanged": 192
+  },
+  {
+    "changed": 7,
+    "changes": [
+      {
+        "description": "FAOLEX Database | Food and Agriculture Organization of the United Nations",
+        "note": "added: Benin: Loi n° 2026-15 portant loi sur l'environnement en République du Bénin. | Benin: Loi n° 2026-16 portant code des forêts et de la faune en République du Bénin. | China: Law of the People's Republic of China on Arable Land Protection and Quality Improvement.; removed: Argentina: Resolución Nº 654/2026 - Sistema Integrado de Gestión de Trazabilidad de Productos Veterinarios (SIGTRAZAVET)",
+        "row": 57,
+        "url": "https://www.fao.org/faolex/en",
+        "vp_id": 4493282
+      },
+      {
+        "description": "Priser & villkor – Copyswede",
+        "note": "added: 0,35 kr | 0,45 kr | 0,45 kr; removed: 0,60 kr | 0,95 kr | 1 SEK per GB med ett tak på 120 SEK",
+        "row": 73,
+        "url": "https://www.copyswede.se/privatkopieringsersattning/priser-villkor/",
+        "vp_id": 5414301
+      },
+      {
+        "description": "EcoSystem",
+        "note": "added: Barème batteries 2026 - Version septembre 2026 rétroactive au 1er janvier 2026 | PDF - 137 ko; removed: Barème batteries 2026 | PDF - 126 ko",
+        "row": 94,
+        "url": "https://pro.ecosystem.eco/profil/producteur/baremes",
+        "vp_id": 5929008
+      },
+      {
+        "description": "PFAS Central",
+        "note": "added: 22 Sep 2026 | J Expo Sci Environ Epidemiol | 23 Sep 2026 | J. Chromatogr. A | 24 Sep 2026 | BBC; removed: 11 Sep 2026 | Rev. Environ. Sci. Biotechnol. | 12 Sep 2026 | Environ. Sci. Technol. Lett. | 14 Sep 2026",
+        "row": 132,
+        "url": "https://pfascentral.org/",
+        "vp_id": 6475025
+      },
+      {
+        "description": "Adelphe - Fees",
+        "note": "added: Simulation d’écocontribution 2027 | Tarifs 2027 emballages ménagers | Tarifs 2027 papiers graphiques; removed: Guide Adelphe tarifs 2026 (EN) | Guide Adelphe tarifs 2026 (FR) | Guide papier graphique tarifs 2026 | 1 new image(s) by content; 1 image(s) no longer present",
+        "row": 198,
+        "url": "https://www.adelphe.fr/combien-ca-coute/",
+        "vp_id": 8396995
+      },
+      {
+        "description": "Latest news | Ecosurety",
+        "note": "added: 30 September 2026 | Businesses preparing for the launch of the UK DRS can now take another step towards compliance, with Exchange for Change opening the first phase of its registra | DRS; removed: 10 June 2026 | Ecosurety support Carbon Literacy for community leaders | Impact",
+        "row": 206,
+        "url": "https://www.ecosurety.com/news",
+        "vp_id": 8693410
+      },
+      {
+        "description": "EU Digital Product Passports - Batteries Information Page",
+        "note": "added: Access guidance, tools and supporting materials related to the implementation and use of the DPP | FAQ for Batteries | Find answers to the most frequently asked questions about the battery passport; removed: , | A range of resources is available to support economic operators throughout the implementation process. Please consult the | and the",
+        "row": 212,
+        "url": "https://single-market-economy.ec.europa.eu/single-market/digital-product-passport/batteries_en",
+        "vp_id": 9040838
+      }
+    ],
+    "checked": 213,
+    "date": "2026-10-02",
+    "dead": 9,
+    "dead_links": [
+      {
+        "description": "- Afvalfonds verpakkingen",
+        "note": "Page not found | Verpact",
+        "row": 1,
+        "url": "https://www.afvalfondsverpakkingen.nl/en/node/450",
+        "vp_id": 2913449
+      },
+      {
+        "description": "Gertearten",
+        "note": "404-Fehler | stiftung elektro-altgeräte register",
+        "row": 11,
+        "url": "https://www.stiftung-ear.de/de/themen/elektrog/herstellerbevollmaechtigte/kategorien/geraetearten",
+        "vp_id": 2913486
+      },
+      {
+        "description": "Fees  ERP Portugal - EN",
+        "note": "404 - Page not found - ERP Global",
+        "row": 13,
+        "url": "https://erp-recycling.org/en-pt/fees/",
+        "vp_id": 2913504
+      },
+      {
+        "description": "Environmental contribution",
+        "note": "Page Not Found - Conai",
+        "row": 14,
+        "url": "http://www.conai.org/en/businesses/environmental-contribution/",
+        "vp_id": 2913511
+      },
+      {
+        "description": "BlyBatteriRetur | taganden",
+        "note": "Sidan hittades inte - Batteriretur",
+        "row": 35,
+        "url": "https://blybatteriretur.se/producent/ataganden/",
+        "vp_id": 3033758
+      },
+      {
+        "description": "Extended Producer Responsibility - EPR - Polyco",
+        "note": "Sorry, the page you are looking for does not exist.",
+        "row": 55,
+        "url": "https://www.polyco.co.za/extended-producer-responsibility/",
+        "vp_id": 4324364
+      },
+      {
+        "description": "Extended Producer Responsibility Fees - Fibre Circle",
+        "note": "The requested URL was not found on this server.",
+        "row": 56,
+        "url": "https://fibrecircle.co.za/epr-fees/",
+        "vp_id": 4431158
+      },
+      {
+        "description": "EUDR Info - API details for Noud (EU Circabc)",
+        "note": "The file or folder does not exists.",
+        "row": 161,
+        "url": "https://circabc.europa.eu/ui/group/34861680-e799-4d7c-bbad-da83c45da458/library/6d251428-9ddc-44df-9e2b-2540fd82f8eb/details",
+        "vp_id": 6910501
+      },
+      {
+        "description": "Exemptions list - validity and rolling plan",
+        "note": "Page not found | Environment",
+        "row": 172,
+        "url": "https://environment.ec.europa.eu/document/f4bd701f-7c2c-4d52-9a03-dc91866e6c61_en",
+        "vp_id": 7383164
+      }
+    ],
+    "finished_at": "2026-10-02T08:55:07.482517Z",
+    "gaps": 5,
+    "gaps_list": [
+      {
+        "description": "-",
+        "error": "<urlopen error timed out> | playwright: playwright: Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://www.ecommunity-erp.co.il/%d7%99%d7%a6%d7%a8%d7%a0%d7%99%d7%9d-%d7%95%d7%99%d7%91%d7%95%d7%90%d7%a0%d7%99%d7%9d/%d7%98%d7%91%d7%9c% | flaresolverr: flaresolverr unreachable: timed out",
+        "row": 42,
+        "url": "https://www.ecommunity-erp.co.il/%d7%99%d7%a6%d7%a8%d7%a0%d7%99%d7%9d-%d7%95%d7%99%d7%91%d7%95%d7%90%d7%a0%d7%99%d7%9d/%d7%98%d7%91%d7%9c%d7%aa-%d7%93%d7%9e%d7%99-%d7%98%d7%99%d7%a4%d7%95%d7%9c/",
+        "vp_id": 3164928
+      },
+      {
+        "description": "CompTox Chemicals Dashboard",
+        "error": "The read operation timed out | playwright: playwright: Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://comptox.epa.gov/dashboard/chemical-lists/PFASSTRUCT\", waiting until \"domcontentloaded\"\n | flaresolverr: flaresolverr unreachable: HTTP Error 500: Internal Server Error",
+        "row": 60,
+        "url": "https://comptox.epa.gov/dashboard/chemical-lists/PFASSTRUCT",
+        "vp_id": 4710970
+      },
+      {
+        "description": "CompTox Chemicals Dashboard",
+        "error": "The read operation timed out | playwright: playwright: Page.goto: net::ERR_CONNECTION_RESET at https://comptox.epa.gov/dashboard/chemical-lists/PFASDEV\nCall log:\nnavigating to \"https://comptox.epa.gov/dashboard/chemical-lists/PFASDEV\", waiting until \"domc | flaresolverr: flaresolverr unreachable: timed out",
+        "row": 61,
+        "url": "https://comptox.epa.gov/dashboard/chemical-lists/PFASDEV",
+        "vp_id": 4710971
+      },
+      {
+        "description": "CompTox Chemicals Dashboard",
+        "error": "The read operation timed out | playwright: playwright: Page.goto: net::ERR_CONNECTION_RESET at https://comptox.epa.gov/dashboard/chemical-lists/PFAS8a7\nCall log:\nnavigating to \"https://comptox.epa.gov/dashboard/chemical-lists/PFAS8a7\", waiting until \"domc | flaresolverr: flaresolverr unreachable: HTTP Error 500: Internal Server Error",
+        "row": 68,
+        "url": "https://comptox.epa.gov/dashboard/chemical-lists/PFAS8a7",
+        "vp_id": 5100065
+      },
+      {
+        "description": "VerpackG - Germany Packaging Regulation",
+        "error": "<urlopen error timed out> | playwright: playwright: Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html\", waiting until \"domcontentloaded\"\n | flaresolverr: flaresolverr unreachable: timed out",
+        "row": 193,
+        "url": "https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html",
+        "vp_id": 7941194
+      }
+    ],
+    "issue_error": null,
+    "issue_number": 42,
+    "low_confidence": [
+      {
+        "description": "Deforestation FAQs",
+        "note": "7 characters captured",
+        "row": 65,
+        "url": "https://circabc.europa.eu/ui/group/34861680-e799-4d7c-bbad-da83c45da458/library/e126f816-844b-41a9-89ef-cb2a33b6aa56/details",
+        "vp_id": 4965563
+      },
+      {
+        "description": "ESPR FAQ",
+        "note": "326 characters captured",
+        "row": 86,
+        "url": "https://circabc.europa.eu/ui/group/418195ae-4919-45fa-a959-3b695c9aab28/library/25c48e7c-9ce3-41cb-96ac-d2942a8a29d6/details",
+        "vp_id": 5868298
+      },
+      {
+        "description": "Tarife gestionare DBA - SNRB | Sistemul Naţional De Reciclare Al Bateriilor",
+        "note": "55 characters captured",
+        "row": 168,
+        "url": "https://snrb.org/tarife-gestionare-dba/",
+        "vp_id": 7197185
+      },
+      {
+        "description": "EUDR Info - FAQs (EU Circabc)",
+        "note": "7 characters captured",
+        "row": 187,
+        "url": "https://circabc.europa.eu/ui/group/34861680-e799-4d7c-bbad-da83c45da458/library/e126f816-844b-41a9-89ef-cb2a33b6aa56/details",
+        "vp_id": 7885990
+      },
+      {
+        "description": "ECHA CHEM main page",
+        "note": "173 characters captured",
+        "row": 195,
+        "url": "https://chem.echa.europa.eu/",
+        "vp_id": 7993611
+      }
+    ],
+    "new_baseline": 0,
+    "started_at": "2026-10-02T08:08:40.693591Z",
+    "unchanged": 187
   }
 ]
