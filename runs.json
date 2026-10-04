@@ -9629,5 +9629,194 @@
     "new_baseline": 0,
     "started_at": "2026-10-03T08:08:00.067300Z",
     "unchanged": 195
+  },
+  {
+    "changed": 4,
+    "changes": [
+      {
+        "description": "Quarterly statements | EKO-KOM",
+        "note": "added: , and make sure | . | Automatic",
+        "row": 8,
+        "url": "https://www.ekokom.cz/en/clients/quarterly-statements",
+        "vp_id": 2913475
+      },
+      {
+        "description": "PFAS Resources for States and other ECOS Members - The Environmental Council of the States (ECOS)",
+        "note": "added: Illinois Launches PFAS Integrated Strategy | Oct 2026; removed: Jun 2026 | New Jersey Finalizes PFAS Cleanup Standards",
+        "row": 117,
+        "url": "https://www.ecos.org/pfas/",
+        "vp_id": 6329558
+      },
+      {
+        "description": "Circular Materials EPR Compliance Scheme News",
+        "note": "added: 287 communities across Alberta will benefit from an enhanced and expanded producer-managed recycling system operated by not-for-profit Circular Materials. With  | Circular Materials Board of Directors Update | Following thoughtful consideration, Allan Cosman, Circular Materials’ Board of Directors Chair has advised the Board of his decision to step down as Board Chair; removed: December 17,",
+        "row": 124,
+        "url": "https://www.circularmaterials.ca/news/",
+        "vp_id": 6415805
+      },
+      {
+        "description": "Tracking PFAS legislation across the US | Manufacturing Dive",
+        "note": "changes on every run (volatile) - added: From Limble | From Reshore Technologies | From YMX Logistics; removed: Arch Systems, HARMAN and FORVIA HELLA to Headline AI-in-Manufacturing Panel at Automotive News… | From Arch Systems | From Shanghai Longguang Industrial Brush Co., Ltd",
+        "row": 196,
+        "url": "https://www.manufacturingdive.com/news/tracking-pfas-forever-chemicals-bills-legislation-us-states/749829/",
+        "vp_id": 8210516
+      }
+    ],
+    "checked": 213,
+    "date": "2026-10-04",
+    "dead": 11,
+    "dead_links": [
+      {
+        "description": "- Afvalfonds verpakkingen",
+        "note": "Page not found | Verpact",
+        "row": 1,
+        "url": "https://www.afvalfondsverpakkingen.nl/en/node/450",
+        "vp_id": 2913449
+      },
+      {
+        "description": "Gertearten",
+        "note": "404-Fehler | stiftung elektro-altgeräte register",
+        "row": 11,
+        "url": "https://www.stiftung-ear.de/de/themen/elektrog/herstellerbevollmaechtigte/kategorien/geraetearten",
+        "vp_id": 2913486
+      },
+      {
+        "description": "Fees  ERP Portugal - EN",
+        "note": "404 - Page not found - ERP Global",
+        "row": 13,
+        "url": "https://erp-recycling.org/en-pt/fees/",
+        "vp_id": 2913504
+      },
+      {
+        "description": "Environmental contribution",
+        "note": "Page Not Found - Conai",
+        "row": 14,
+        "url": "http://www.conai.org/en/businesses/environmental-contribution/",
+        "vp_id": 2913511
+      },
+      {
+        "description": "BlyBatteriRetur | taganden",
+        "note": "Sidan hittades inte - Batteriretur",
+        "row": 35,
+        "url": "https://blybatteriretur.se/producent/ataganden/",
+        "vp_id": 3033758
+      },
+      {
+        "description": "Extended Producer Responsibility - EPR - Polyco",
+        "note": "Sorry, the page you are looking for does not exist.",
+        "row": 55,
+        "url": "https://www.polyco.co.za/extended-producer-responsibility/",
+        "vp_id": 4324364
+      },
+      {
+        "description": "Extended Producer Responsibility Fees - Fibre Circle",
+        "note": "The requested URL was not found on this server.",
+        "row": 56,
+        "url": "https://fibrecircle.co.za/epr-fees/",
+        "vp_id": 4431158
+      },
+      {
+        "description": "Deforestation FAQs",
+        "note": "The file or folder does not exists.",
+        "row": 65,
+        "url": "https://circabc.europa.eu/ui/group/34861680-e799-4d7c-bbad-da83c45da458/library/e126f816-844b-41a9-89ef-cb2a33b6aa56/details",
+        "vp_id": 4965563
+      },
+      {
+        "description": "EUDR Info - API details for Noud (EU Circabc)",
+        "note": "The file or folder does not exists.",
+        "row": 161,
+        "url": "https://circabc.europa.eu/ui/group/34861680-e799-4d7c-bbad-da83c45da458/library/6d251428-9ddc-44df-9e2b-2540fd82f8eb/details",
+        "vp_id": 6910501
+      },
+      {
+        "description": "Exemptions list - validity and rolling plan",
+        "note": "Page not found | Environment",
+        "row": 172,
+        "url": "https://environment.ec.europa.eu/document/f4bd701f-7c2c-4d52-9a03-dc91866e6c61_en",
+        "vp_id": 7383164
+      },
+      {
+        "description": "EUDR Info - FAQs (EU Circabc)",
+        "note": "The file or folder does not exists.",
+        "row": 187,
+        "url": "https://circabc.europa.eu/ui/group/34861680-e799-4d7c-bbad-da83c45da458/library/e126f816-844b-41a9-89ef-cb2a33b6aa56/details",
+        "vp_id": 7885990
+      }
+    ],
+    "finished_at": "2026-10-04T16:14:15.135140Z",
+    "gaps": 5,
+    "gaps_list": [
+      {
+        "description": "-",
+        "error": "<urlopen error timed out> | playwright: playwright: Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://www.ecommunity-erp.co.il/%d7%99%d7%a6%d7%a8%d7%a0%d7%99%d7%9d-%d7%95%d7%99%d7%91%d7%95%d7%90%d7%a0%d7%99%d7%9d/%d7%98%d7%91%d7%9c% | flaresolverr: flaresolverr unreachable: timed out",
+        "row": 42,
+        "url": "https://www.ecommunity-erp.co.il/%d7%99%d7%a6%d7%a8%d7%a0%d7%99%d7%9d-%d7%95%d7%99%d7%91%d7%95%d7%90%d7%a0%d7%99%d7%9d/%d7%98%d7%91%d7%9c%d7%aa-%d7%93%d7%9e%d7%99-%d7%98%d7%99%d7%a4%d7%95%d7%9c/",
+        "vp_id": 3164928
+      },
+      {
+        "description": "CompTox Chemicals Dashboard",
+        "error": "The read operation timed out | playwright: playwright: Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://comptox.epa.gov/dashboard/chemical-lists/PFASSTRUCT\", waiting until \"domcontentloaded\"\n | flaresolverr: flaresolverr unreachable: HTTP Error 500: Internal Server Error",
+        "row": 60,
+        "url": "https://comptox.epa.gov/dashboard/chemical-lists/PFASSTRUCT",
+        "vp_id": 4710970
+      },
+      {
+        "description": "CompTox Chemicals Dashboard",
+        "error": "The read operation timed out | playwright: playwright: Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://comptox.epa.gov/dashboard/chemical-lists/PFASDEV\", waiting until \"domcontentloaded\"\n | flaresolverr: flaresolverr unreachable: HTTP Error 500: Internal Server Error",
+        "row": 61,
+        "url": "https://comptox.epa.gov/dashboard/chemical-lists/PFASDEV",
+        "vp_id": 4710971
+      },
+      {
+        "description": "CompTox Chemicals Dashboard",
+        "error": "The read operation timed out | playwright: playwright: Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://comptox.epa.gov/dashboard/chemical-lists/PFAS8a7\", waiting until \"domcontentloaded\"\n | flaresolverr: flaresolverr unreachable: HTTP Error 500: Internal Server Error",
+        "row": 68,
+        "url": "https://comptox.epa.gov/dashboard/chemical-lists/PFAS8a7",
+        "vp_id": 5100065
+      },
+      {
+        "description": "VerpackG - Germany Packaging Regulation",
+        "error": "<urlopen error timed out> | playwright: playwright: Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html\", waiting until \"domcontentloaded\"\n | flaresolverr: flaresolverr unreachable: timed out",
+        "row": 193,
+        "url": "https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html",
+        "vp_id": 7941194
+      }
+    ],
+    "issue_error": null,
+    "issue_number": 44,
+    "low_confidence": [
+      {
+        "description": "Electronic Supplier & Seller Recycling Registration | Alberta Recycling",
+        "note": "52 characters captured",
+        "row": 9,
+        "url": "https://www.albertarecycling.ca/suppliers/electronic-suppliers/",
+        "vp_id": 2913482
+      },
+      {
+        "description": "Electronics Recycling Program - Alberta Recycling Management Authority",
+        "note": "0 characters captured",
+        "row": 125,
+        "url": "https://www.albertarecycling.ca/stewardship-recycling/electronics/",
+        "vp_id": 6416453
+      },
+      {
+        "description": "Legislatie de mediu pentru OIREP - Modificari si actualizari",
+        "note": "0 characters captured",
+        "row": 167,
+        "url": "https://ecosynergy.ro/legislatie-otr-mediu/",
+        "vp_id": 7191886
+      },
+      {
+        "description": "ECHA CHEM main page",
+        "note": "173 characters captured",
+        "row": 195,
+        "url": "https://chem.echa.europa.eu/",
+        "vp_id": 7993611
+      }
+    ],
+    "new_baseline": 0,
+    "started_at": "2026-10-04T15:26:30.105454Z",
+    "unchanged": 195
   }
 ]
