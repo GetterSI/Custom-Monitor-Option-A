@@ -10133,5 +10133,166 @@
     "new_baseline": 0,
     "started_at": "2026-10-06T14:39:15.765349Z",
     "unchanged": 190
+  },
+  {
+    "changed": 6,
+    "changes": [
+      {
+        "description": "Electronic Supplier & Seller Recycling Registration | Alberta Recycling",
+        "note": "added: A written policy stating how the Applicant manages EOL Solar Panels based on a hierarchy of responsible management strategies, including off-site and on-site ac | Comprehensive business plan, including details regarding how your company will obtain eligible end-of-life solar panels (the material must be sourced in Alberta | Copies of all required insurance. | 5 image(s) no longer present",
+        "row": 9,
+        "url": "https://www.albertarecycling.ca/suppliers/electronic-suppliers/",
+        "vp_id": 2913482
+      },
+      {
+        "description": "Candidate List of substances of very high concern for Authorisation - ECHA",
+        "note": "added: : The Candidate List was last updated on 04 Feb 2026. As no new SVHC proposals were submitted during 2026, the next update of the Candidate List is currently an | Candidate List updates | show/hide",
+        "row": 53,
+        "url": "https://echa.europa.eu/candidate-list-table",
+        "vp_id": 4223573
+      },
+      {
+        "description": "HDS Croatian Composers Society",
+        "note": "added: Završen obračun mehaničkih i internetskih prava te naknada iz inozemstva za prvi dio 2026. godine; removed: HDS i HDS ZAMP partneri četvrtog SHIP festivala",
+        "row": 92,
+        "url": "https://www.zamp.hr/korisnici/pregled/64/98/privatno-kopiranje",
+        "vp_id": 5917859
+      },
+      {
+        "description": "EUDR Info - API details for Noud (EU Circabc)",
+        "note": "removed: , external users will no longer be able to create new Interest Groups unless acting on behalf of an EU Institution, Body or Agency. | . | [",
+        "row": 161,
+        "url": "https://circabc.europa.eu/ui/group/34861680-e799-4d7c-bbad-da83c45da458/library/6d251428-9ddc-44df-9e2b-2540fd82f8eb/details",
+        "vp_id": 6910501
+      },
+      {
+        "description": "Interzero Croatia News",
+        "note": "added: Die technische Speicherung oder der Zugriff, der ausschließlich zu statistischen Zwecken erfolgt. | Essentiell | Technical storage or access used solely for anonymous statistical purposes. Without a subpoena, the voluntary consent of your Internet service provider or addit; removed: . | Essential | Technical storage or access for statistical purposes only.",
+        "row": 171,
+        "url": "https://epr.interzero.hr/blog/",
+        "vp_id": 7332498
+      },
+      {
+        "description": "EUDR Info - FAQs (EU Circabc)",
+        "note": "removed: , external users will no longer be able to create new Interest Groups unless acting on behalf of an EU Institution, Body or Agency. | . | [",
+        "row": 187,
+        "url": "https://circabc.europa.eu/ui/group/34861680-e799-4d7c-bbad-da83c45da458/library/e126f816-844b-41a9-89ef-cb2a33b6aa56/details",
+        "vp_id": 7885990
+      }
+    ],
+    "checked": 213,
+    "date": "2026-10-07",
+    "dead": 9,
+    "dead_links": [
+      {
+        "description": "- Afvalfonds verpakkingen",
+        "note": "Page not found | Verpact",
+        "row": 1,
+        "url": "https://www.afvalfondsverpakkingen.nl/en/node/450",
+        "vp_id": 2913449
+      },
+      {
+        "description": "Gertearten",
+        "note": "404-Fehler | stiftung elektro-altgeräte register",
+        "row": 11,
+        "url": "https://www.stiftung-ear.de/de/themen/elektrog/herstellerbevollmaechtigte/kategorien/geraetearten",
+        "vp_id": 2913486
+      },
+      {
+        "description": "Fees  ERP Portugal - EN",
+        "note": "404 - Page not found - ERP Global",
+        "row": 13,
+        "url": "https://erp-recycling.org/en-pt/fees/",
+        "vp_id": 2913504
+      },
+      {
+        "description": "Environmental contribution",
+        "note": "Page Not Found - Conai",
+        "row": 14,
+        "url": "http://www.conai.org/en/businesses/environmental-contribution/",
+        "vp_id": 2913511
+      },
+      {
+        "description": "BlyBatteriRetur | taganden",
+        "note": "Sidan hittades inte - Batteriretur",
+        "row": 35,
+        "url": "https://blybatteriretur.se/producent/ataganden/",
+        "vp_id": 3033758
+      },
+      {
+        "description": "Extended Producer Responsibility - EPR - Polyco",
+        "note": "Sorry, the page you are looking for does not exist.",
+        "row": 55,
+        "url": "https://www.polyco.co.za/extended-producer-responsibility/",
+        "vp_id": 4324364
+      },
+      {
+        "description": "Extended Producer Responsibility Fees - Fibre Circle",
+        "note": "The requested URL was not found on this server.",
+        "row": 56,
+        "url": "https://fibrecircle.co.za/epr-fees/",
+        "vp_id": 4431158
+      },
+      {
+        "description": "Deforestation FAQs",
+        "note": "The file or folder does not exists.",
+        "row": 65,
+        "url": "https://circabc.europa.eu/ui/group/34861680-e799-4d7c-bbad-da83c45da458/library/e126f816-844b-41a9-89ef-cb2a33b6aa56/details",
+        "vp_id": 4965563
+      },
+      {
+        "description": "Exemptions list - validity and rolling plan",
+        "note": "Page not found | Environment",
+        "row": 172,
+        "url": "https://environment.ec.europa.eu/document/f4bd701f-7c2c-4d52-9a03-dc91866e6c61_en",
+        "vp_id": 7383164
+      }
+    ],
+    "finished_at": "2026-10-07T15:35:13.212955Z",
+    "gaps": 2,
+    "gaps_list": [
+      {
+        "description": "-",
+        "error": "<urlopen error timed out> | playwright: playwright: Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://www.ecommunity-erp.co.il/%d7%99%d7%a6%d7%a8%d7%a0%d7%99%d7%9d-%d7%95%d7%99%d7%91%d7%95%d7%90%d7%a0%d7%99%d7%9d/%d7%98%d7%91%d7%9c% | flaresolverr: flaresolverr unreachable: timed out",
+        "row": 42,
+        "url": "https://www.ecommunity-erp.co.il/%d7%99%d7%a6%d7%a8%d7%a0%d7%99%d7%9d-%d7%95%d7%99%d7%91%d7%95%d7%90%d7%a0%d7%99%d7%9d/%d7%98%d7%91%d7%9c%d7%aa-%d7%93%d7%9e%d7%99-%d7%98%d7%99%d7%a4%d7%95%d7%9c/",
+        "vp_id": 3164928
+      },
+      {
+        "description": "VerpackG - Germany Packaging Regulation",
+        "error": "<urlopen error timed out> | playwright: playwright: Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html\", waiting until \"domcontentloaded\"\n | flaresolverr: flaresolverr unreachable: timed out",
+        "row": 193,
+        "url": "https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html",
+        "vp_id": 7941194
+      }
+    ],
+    "issue_error": null,
+    "issue_number": 47,
+    "low_confidence": [
+      {
+        "description": "EUDR Info - API details for Noud (EU Circabc)",
+        "note": "7 characters captured",
+        "row": 161,
+        "url": "https://circabc.europa.eu/ui/group/34861680-e799-4d7c-bbad-da83c45da458/library/6d251428-9ddc-44df-9e2b-2540fd82f8eb/details",
+        "vp_id": 6910501
+      },
+      {
+        "description": "EUDR Info - FAQs (EU Circabc)",
+        "note": "7 characters captured",
+        "row": 187,
+        "url": "https://circabc.europa.eu/ui/group/34861680-e799-4d7c-bbad-da83c45da458/library/e126f816-844b-41a9-89ef-cb2a33b6aa56/details",
+        "vp_id": 7885990
+      },
+      {
+        "description": "ECHA CHEM main page",
+        "note": "173 characters captured",
+        "row": 195,
+        "url": "https://chem.echa.europa.eu/",
+        "vp_id": 7993611
+      }
+    ],
+    "new_baseline": 0,
+    "started_at": "2026-10-07T14:59:21.427571Z",
+    "unchanged": 197
   }
 ]
