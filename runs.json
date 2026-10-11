@@ -10756,5 +10756,201 @@
     "new_baseline": 0,
     "started_at": "2026-10-10T14:09:11.042589Z",
     "unchanged": 203
+  },
+  {
+    "changed": 2,
+    "changes": [
+      {
+        "description": "Proposition 65 - OEHHA",
+        "note": "added: Fri, 10/09/2026 - 12:00pm | Mon, 11/09/2026 - 12:00pm | Notice of Intent to List Chemicals by the Labor Code Mechanism: Atrazine; removed: July 17, 2026 | The California Environmental Protection Agency’s Office of Environmental Health Hazard Assessment (OEHHA) intends to list welding fumes as known to the state to | Welding Fumes Added to the Proposition 65 List for Cancer",
+        "row": 103,
+        "url": "https://oehha.ca.gov/proposition-65",
+        "vp_id": 6174560
+      },
+      {
+        "description": "Annual Producer Meetings & Fee Consultations - Knowledge Base",
+        "note": "added: , | , | ,; removed: click here. | Please note that due to the competitive environment, 2027 fees for Circular Materials in Ontario producers will be shared through a separate Producer Advisory G | The 2025 Annual Producer Meeting (APM) will be held on Thursday, October 16. To register,",
+        "row": 170,
+        "url": "https://knowledge.werecycle.ca/?title=Producers/03_Fees/Annual_Producer_Meetings_%26_Fee_Consultations",
+        "vp_id": 7251443
+      }
+    ],
+    "checked": 213,
+    "date": "2026-10-11",
+    "dead": 10,
+    "dead_links": [
+      {
+        "description": "- Afvalfonds verpakkingen",
+        "note": "Page not found | Verpact",
+        "row": 1,
+        "url": "https://www.afvalfondsverpakkingen.nl/en/node/450",
+        "vp_id": 2913449
+      },
+      {
+        "description": "Gertearten",
+        "note": "404-Fehler | stiftung elektro-altgeräte register",
+        "row": 11,
+        "url": "https://www.stiftung-ear.de/de/themen/elektrog/herstellerbevollmaechtigte/kategorien/geraetearten",
+        "vp_id": 2913486
+      },
+      {
+        "description": "Fees  ERP Portugal - EN",
+        "note": "404 - Page not found - ERP Global",
+        "row": 13,
+        "url": "https://erp-recycling.org/en-pt/fees/",
+        "vp_id": 2913504
+      },
+      {
+        "description": "Environmental contribution",
+        "note": "Page Not Found - Conai",
+        "row": 14,
+        "url": "http://www.conai.org/en/businesses/environmental-contribution/",
+        "vp_id": 2913511
+      },
+      {
+        "description": "BlyBatteriRetur | taganden",
+        "note": "Sidan hittades inte - Batteriretur",
+        "row": 35,
+        "url": "https://blybatteriretur.se/producent/ataganden/",
+        "vp_id": 3033758
+      },
+      {
+        "description": "Extended Producer Responsibility - EPR - Polyco",
+        "note": "Sorry, the page you are looking for does not exist.",
+        "row": 55,
+        "url": "https://www.polyco.co.za/extended-producer-responsibility/",
+        "vp_id": 4324364
+      },
+      {
+        "description": "Extended Producer Responsibility Fees - Fibre Circle",
+        "note": "The requested URL was not found on this server.",
+        "row": 56,
+        "url": "https://fibrecircle.co.za/epr-fees/",
+        "vp_id": 4431158
+      },
+      {
+        "description": "EUDR Info - API details for Noud (EU Circabc)",
+        "note": "The file or folder does not exists.",
+        "row": 161,
+        "url": "https://circabc.europa.eu/ui/group/34861680-e799-4d7c-bbad-da83c45da458/library/6d251428-9ddc-44df-9e2b-2540fd82f8eb/details",
+        "vp_id": 6910501
+      },
+      {
+        "description": "Exemptions list - validity and rolling plan",
+        "note": "Page not found | Environment",
+        "row": 172,
+        "url": "https://environment.ec.europa.eu/document/f4bd701f-7c2c-4d52-9a03-dc91866e6c61_en",
+        "vp_id": 7383164
+      },
+      {
+        "description": "EUDR Info - FAQs (EU Circabc)",
+        "note": "The file or folder does not exists.",
+        "row": 187,
+        "url": "https://circabc.europa.eu/ui/group/34861680-e799-4d7c-bbad-da83c45da458/library/e126f816-844b-41a9-89ef-cb2a33b6aa56/details",
+        "vp_id": 7885990
+      }
+    ],
+    "finished_at": "2026-10-11T15:50:07.285564Z",
+    "gaps": 10,
+    "gaps_list": [
+      {
+        "description": "Product Definitions, Fees & Clarification Protocols  EPRA | ARPE | Electronic Products Recycling Association | Association pour le recyclage des produits lectroniques",
+        "error": "<urlopen error timed out> | playwright: playwright: Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://epra.ca/what-is-a-steward/product-definitions-fees-clarification-protocols\", waiting until \"domcontentloaded\"\n | flaresolverr: flaresolverr unreachable: timed out",
+        "row": 5,
+        "url": "https://epra.ca/what-is-a-steward/product-definitions-fees-clarification-protocols",
+        "vp_id": 2913466
+      },
+      {
+        "description": "Recycle Yukon Electronics",
+        "error": "<urlopen error timed out> | playwright: playwright: Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"http://recycleyukonelectronics.ca/\", waiting until \"domcontentloaded\"\n | flaresolverr: flaresolverr unreachable: timed out",
+        "row": 20,
+        "url": "http://recycleyukonelectronics.ca/",
+        "vp_id": 2913544
+      },
+      {
+        "description": "-",
+        "error": "<urlopen error timed out> | playwright: playwright: Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://www.ecommunity-erp.co.il/%d7%99%d7%a6%d7%a8%d7%a0%d7%99%d7%9d-%d7%95%d7%99%d7%91%d7%95%d7%90%d7%a0%d7%99%d7%9d/%d7%98%d7%91%d7%9c% | flaresolverr: flaresolverr unreachable: timed out",
+        "row": 42,
+        "url": "https://www.ecommunity-erp.co.il/%d7%99%d7%a6%d7%a8%d7%a0%d7%99%d7%9d-%d7%95%d7%99%d7%91%d7%95%d7%90%d7%a0%d7%99%d7%9d/%d7%98%d7%91%d7%9c%d7%aa-%d7%93%d7%9e%d7%99-%d7%98%d7%99%d7%a4%d7%95%d7%9c/",
+        "vp_id": 3164928
+      },
+      {
+        "description": "SILiAmb schemes - Specific waste streams - Legislation - Portugal",
+        "error": "<urlopen error timed out> | playwright: playwright: Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://www.apambiente.pt/residuos/fluxos-especificos-de-residuos\", waiting until \"domcontentloaded\"\n | flaresolverr: flaresolverr unreachable: timed out",
+        "row": 71,
+        "url": "https://www.apambiente.pt/residuos/fluxos-especificos-de-residuos",
+        "vp_id": 5287465
+      },
+      {
+        "description": "AURAEKO Packaging - AURAEKO",
+        "error": "<urlopen error timed out> | playwright: playwright: Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://auraeko.pl/en/packaging/\", waiting until \"domcontentloaded\"\n | flaresolverr: flaresolverr unreachable: timed out",
+        "row": 85,
+        "url": "https://auraeko.pl/en/packaging/",
+        "vp_id": 5849318
+      },
+      {
+        "description": "Siliamb",
+        "error": "<urlopen error timed out> | playwright: playwright: Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://apambiente.pt/residuos/documentos\", waiting until \"domcontentloaded\"\n | flaresolverr: flaresolverr unreachable: timed out",
+        "row": 107,
+        "url": "https://apambiente.pt/residuos/documentos",
+        "vp_id": 6180996
+      },
+      {
+        "description": "Siliamb Products",
+        "error": "<urlopen error timed out> | playwright: playwright: Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://apambiente.pt/residuos/registo-de-produtores-de-produtos\", waiting until \"domcontentloaded\"\n | flaresolverr: flaresolverr unreachable: timed out",
+        "row": 108,
+        "url": "https://apambiente.pt/residuos/registo-de-produtores-de-produtos",
+        "vp_id": 6180997
+      },
+      {
+        "description": "ECO Synergy - Transparenta preturi si clienti",
+        "error": "<urlopen error timed out> | playwright: playwright: Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://ecosynergy.ro/informatiipublice/\", waiting until \"domcontentloaded\"\n | flaresolverr: flaresolverr unreachable: timed out",
+        "row": 166,
+        "url": "https://ecosynergy.ro/informatiipublice/",
+        "vp_id": 7191855
+      },
+      {
+        "description": "Legislatie de mediu pentru OIREP - Modificari si actualizari",
+        "error": "<urlopen error timed out> | playwright: playwright: Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://ecosynergy.ro/legislatie-otr-mediu/\", waiting until \"domcontentloaded\"\n | flaresolverr: flaresolverr unreachable: timed out",
+        "row": 167,
+        "url": "https://ecosynergy.ro/legislatie-otr-mediu/",
+        "vp_id": 7191886
+      },
+      {
+        "description": "VerpackG - Germany Packaging Regulation",
+        "error": "<urlopen error timed out> | playwright: playwright: Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html\", waiting until \"domcontentloaded\"\n | flaresolverr: flaresolverr unreachable: timed out",
+        "row": 193,
+        "url": "https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html",
+        "vp_id": 7941194
+      }
+    ],
+    "issue_error": null,
+    "issue_number": 51,
+    "low_confidence": [
+      {
+        "description": "Deforestation FAQs",
+        "note": "7 characters captured",
+        "row": 65,
+        "url": "https://circabc.europa.eu/ui/group/34861680-e799-4d7c-bbad-da83c45da458/library/e126f816-844b-41a9-89ef-cb2a33b6aa56/details",
+        "vp_id": 4965563
+      },
+      {
+        "description": "CESI China RoHS News",
+        "note": "133 characters captured",
+        "row": 118,
+        "url": "https://www.cesi.cn/rohs/page/list.jsp?catalog=/001/001-006",
+        "vp_id": 6351528
+      },
+      {
+        "description": "ECHA CHEM main page",
+        "note": "173 characters captured",
+        "row": 195,
+        "url": "https://chem.echa.europa.eu/",
+        "vp_id": 7993611
+      }
+    ],
+    "new_baseline": 0,
+    "started_at": "2026-10-11T14:33:28.405627Z",
+    "unchanged": 195
   }
 ]
