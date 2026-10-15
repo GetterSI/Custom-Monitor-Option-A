@@ -11547,5 +11547,236 @@
     "new_baseline": 0,
     "started_at": "2026-10-14T13:14:31.474614Z",
     "unchanged": 195
+  },
+  {
+    "changed": 5,
+    "changes": [
+      {
+        "description": "Packaging Fees | Green Dot Cyprus",
+        "note": "added: DigiDot – Instructions for Creating a New QR Label for Product Packaging | EU Deforestation Regulation (EUDR): What Businesses Need to Know; removed: Going on Holiday! Temporary Assumption Day Collection Changes | Supporting the Cyprus Cub Scout Jamboree",
+        "row": 23,
+        "url": "http://greendot.com.cy/en/business/packaging-fees",
+        "vp_id": 2913555
+      },
+      {
+        "description": "FAOLEX Database | Food and Agriculture Organization of the United Nations",
+        "note": "added: Date of text: 07 September 2026 | Date of text: 24 August 2026 | Republic of Moldova: Law No. 185 on Invasive Alien Species.; removed: Cuba: Ley Nº 185/2026 - Ley de Tierra Agropecuaria y Forestal. | Date of text: 14 September 2026 | Date of text: 22 July 2026",
+        "row": 57,
+        "url": "https://www.fao.org/faolex/en",
+        "vp_id": 4493282
+      },
+      {
+        "description": "PFAS Resources for States and other ECOS Members - The Environmental Council of the States (ECOS)",
+        "note": "added: ECOS Letter to U.S. EPA on Draft Guidance for Reducing Risk from PFOA and PFOS in Biosolids | Oct 2026; removed: Apr 2026 | ECOS FY27 Testimony to the House Committee on Appropriations on the Budget Request for U.S. EPA",
+        "row": 117,
+        "url": "https://www.ecos.org/pfas/",
+        "vp_id": 6329558
+      },
+      {
+        "description": "MMA – Ministerio del Medio Ambiente",
+        "note": "added: 16 | Capacitación online: Proceso de Declaración Jurada Anual – Ventanilla Única del | octubre; removed: No hay próximas actividades en estos momentos.",
+        "row": 194,
+        "url": "https://mma.gob.cl/",
+        "vp_id": 7959669
+      },
+      {
+        "description": "Packaging Declarations 2026 - Green Dot Cyprus",
+        "note": "added: DigiDot – Instructions for Creating a New QR Label for Product Packaging | EU Deforestation Regulation (EUDR): What Businesses Need to Know; removed: Going on Holiday! Temporary Assumption Day Collection Changes | Supporting the Cyprus Cub Scout Jamboree",
+        "row": 197,
+        "url": "https://greendot.com.cy/en/green-dot-member-declarations/packaging-statements-2026/",
+        "vp_id": 8223405
+      }
+    ],
+    "checked": 213,
+    "date": "2026-10-15",
+    "dead": 11,
+    "dead_links": [
+      {
+        "description": "- Afvalfonds verpakkingen",
+        "note": "Page not found | Verpact",
+        "row": 1,
+        "url": "https://www.afvalfondsverpakkingen.nl/en/node/450",
+        "vp_id": 2913449
+      },
+      {
+        "description": "Gertearten",
+        "note": "404-Fehler | stiftung elektro-altgeräte register",
+        "row": 11,
+        "url": "https://www.stiftung-ear.de/de/themen/elektrog/herstellerbevollmaechtigte/kategorien/geraetearten",
+        "vp_id": 2913486
+      },
+      {
+        "description": "Fees  ERP Portugal - EN",
+        "note": "404 - Page not found - ERP Global",
+        "row": 13,
+        "url": "https://erp-recycling.org/en-pt/fees/",
+        "vp_id": 2913504
+      },
+      {
+        "description": "Environmental contribution",
+        "note": "Page Not Found - Conai",
+        "row": 14,
+        "url": "http://www.conai.org/en/businesses/environmental-contribution/",
+        "vp_id": 2913511
+      },
+      {
+        "description": "BlyBatteriRetur | taganden",
+        "note": "Sidan hittades inte - Batteriretur",
+        "row": 35,
+        "url": "https://blybatteriretur.se/producent/ataganden/",
+        "vp_id": 3033758
+      },
+      {
+        "description": "Extended Producer Responsibility - EPR - Polyco",
+        "note": "Sorry, the page you are looking for does not exist.",
+        "row": 55,
+        "url": "https://www.polyco.co.za/extended-producer-responsibility/",
+        "vp_id": 4324364
+      },
+      {
+        "description": "Extended Producer Responsibility Fees - Fibre Circle",
+        "note": "The requested URL was not found on this server.",
+        "row": 56,
+        "url": "https://fibrecircle.co.za/epr-fees/",
+        "vp_id": 4431158
+      },
+      {
+        "description": "Deforestation FAQs",
+        "note": "The file or folder does not exists.",
+        "row": 65,
+        "url": "https://circabc.europa.eu/ui/group/34861680-e799-4d7c-bbad-da83c45da458/library/e126f816-844b-41a9-89ef-cb2a33b6aa56/details",
+        "vp_id": 4965563
+      },
+      {
+        "description": "EUDR Info - API details for Noud (EU Circabc)",
+        "note": "The file or folder does not exists.",
+        "row": 161,
+        "url": "https://circabc.europa.eu/ui/group/34861680-e799-4d7c-bbad-da83c45da458/library/6d251428-9ddc-44df-9e2b-2540fd82f8eb/details",
+        "vp_id": 6910501
+      },
+      {
+        "description": "Exemptions list - validity and rolling plan",
+        "note": "Page not found | Environment",
+        "row": 172,
+        "url": "https://environment.ec.europa.eu/document/f4bd701f-7c2c-4d52-9a03-dc91866e6c61_en",
+        "vp_id": 7383164
+      },
+      {
+        "description": "EUDR Info - FAQs (EU Circabc)",
+        "note": "The file or folder does not exists.",
+        "row": 187,
+        "url": "https://circabc.europa.eu/ui/group/34861680-e799-4d7c-bbad-da83c45da458/library/e126f816-844b-41a9-89ef-cb2a33b6aa56/details",
+        "vp_id": 7885990
+      }
+    ],
+    "finished_at": "2026-10-15T13:41:53.622907Z",
+    "gaps": 2,
+    "gaps_list": [
+      {
+        "description": "-",
+        "error": "<urlopen error timed out> | playwright: playwright: Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://www.ecommunity-erp.co.il/%d7%99%d7%a6%d7%a8%d7%a0%d7%99%d7%9d-%d7%95%d7%99%d7%91%d7%95%d7%90%d7%a0%d7%99%d7%9d/%d7%98%d7%91%d7%9c% | flaresolverr: flaresolverr unreachable: timed out",
+        "row": 42,
+        "url": "https://www.ecommunity-erp.co.il/%d7%99%d7%a6%d7%a8%d7%a0%d7%99%d7%9d-%d7%95%d7%99%d7%91%d7%95%d7%90%d7%a0%d7%99%d7%9d/%d7%98%d7%91%d7%9c%d7%aa-%d7%93%d7%9e%d7%99-%d7%98%d7%99%d7%a4%d7%95%d7%9c/",
+        "vp_id": 3164928
+      },
+      {
+        "description": "VerpackG - Germany Packaging Regulation",
+        "error": "<urlopen error timed out> | playwright: playwright: Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html\", waiting until \"domcontentloaded\"\n | flaresolverr: flaresolverr unreachable: timed out",
+        "row": 193,
+        "url": "https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html",
+        "vp_id": 7941194
+      }
+    ],
+    "issue_error": null,
+    "issue_number": 55,
+    "low_confidence": [
+      {
+        "description": "Product Definitions, Fees & Clarification Protocols  EPRA | ARPE | Electronic Products Recycling Association | Association pour le recyclage des produits lectroniques",
+        "note": "65 characters captured",
+        "row": 5,
+        "url": "https://epra.ca/what-is-a-steward/product-definitions-fees-clarification-protocols",
+        "vp_id": 2913466
+      },
+      {
+        "description": "Electronic Supplier & Seller Recycling Registration | Alberta Recycling",
+        "note": "65 characters captured",
+        "row": 9,
+        "url": "https://www.albertarecycling.ca/suppliers/electronic-suppliers/",
+        "vp_id": 2913482
+      },
+      {
+        "description": "NWT Electronics Recycling Program | Alberta Recycling",
+        "note": "0 characters captured",
+        "row": 19,
+        "url": "https://www.albertarecycling.ca/nwt-recycling-program/",
+        "vp_id": 2913540
+      },
+      {
+        "description": "Recycle Yukon Electronics",
+        "note": "65 characters captured",
+        "row": 20,
+        "url": "http://recycleyukonelectronics.ca/",
+        "vp_id": 2913544
+      },
+      {
+        "description": "Environment Law No. 2872. | FAOLEX",
+        "note": "24 characters captured",
+        "row": 76,
+        "url": "https://www.fao.org/faolex/results/details/en/c/LEX-FAOC007700/",
+        "vp_id": 5608865
+      },
+      {
+        "description": "CESI China RoHS News",
+        "note": "133 characters captured",
+        "row": 118,
+        "url": "https://www.cesi.cn/rohs/page/list.jsp?catalog=/001/001-006",
+        "vp_id": 6351528
+      },
+      {
+        "description": "Electronics Recycling Program - Alberta Recycling Management Authority",
+        "note": "65 characters captured",
+        "row": 125,
+        "url": "https://www.albertarecycling.ca/stewardship-recycling/electronics/",
+        "vp_id": 6416453
+      },
+      {
+        "description": "ECO Synergy - Transparenta preturi si clienti",
+        "note": "65 characters captured",
+        "row": 166,
+        "url": "https://ecosynergy.ro/informatiipublice/",
+        "vp_id": 7191855
+      },
+      {
+        "description": "Legislatie de mediu pentru OIREP - Modificari si actualizari",
+        "note": "65 characters captured",
+        "row": 167,
+        "url": "https://ecosynergy.ro/legislatie-otr-mediu/",
+        "vp_id": 7191886
+      },
+      {
+        "description": "MAI Israel WEEE/Batteries",
+        "note": "104 characters captured",
+        "row": 169,
+        "url": "https://mai.org.il/%d7%9e%d7%97%d7%99%d7%a8%d7%95%d7%9f-%d7%9e-%d7%90-%d7%99/",
+        "vp_id": 7228552
+      },
+      {
+        "description": "VIII-787 Lithuania Law on Waste Management",
+        "note": "236 characters captured",
+        "row": 176,
+        "url": "https://e-seimas.lrs.lt/portal/legalActEditions/lt/TAD/TAIS.59267",
+        "vp_id": 7550943
+      },
+      {
+        "description": "ECHA CHEM main page",
+        "note": "173 characters captured",
+        "row": 195,
+        "url": "https://chem.echa.europa.eu/",
+        "vp_id": 7993611
+      }
+    ],
+    "new_baseline": 0,
+    "started_at": "2026-10-15T13:00:32.239034Z",
+    "unchanged": 193
   }
 ]
