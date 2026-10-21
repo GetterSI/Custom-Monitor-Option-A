@@ -12729,5 +12729,229 @@
     "new_baseline": 0,
     "started_at": "2026-10-20T13:12:42.759116Z",
     "unchanged": 197
+  },
+  {
+    "changed": 4,
+    "changes": [
+      {
+        "description": "HDS Croatian Composers Society",
+        "note": "added: MAKK 2026.: Strategija je gotova. I što sad?; removed: SHIP u Šibeniku: 4. put sjajno mjesto susreta glazbenih profesionalaca i glazbenika",
+        "row": 92,
+        "url": "https://www.zamp.hr/korisnici/pregled/64/98/privatno-kopiranje",
+        "vp_id": 5917859
+      },
+      {
+        "description": "Proposition 65 - OEHHA",
+        "note": "added: The California Environmental Protection Agency’s Office of Environmental Health Hazard Assessment (OEHHA) intends to list welding fumes as known to the state to | Welding Fumes Added to the Proposition 65 List for Cancer; removed: Announcement of the Carcinogen Identification Committee Meeting Scheduled for November 17, 2026 | Effective July 17, 2026, the Office of Environmental Health Haza",
+        "row": 103,
+        "url": "https://oehha.ca.gov/proposition-65",
+        "vp_id": 6174560
+      },
+      {
+        "description": "PFAS Central",
+        "note": "added: 14 Oct 2026 | 14 Oct 2026 | News Center Maine | 14 Oct 2026 | Rockefeller Institute of Government; removed: 12 Oct 2026 | European Coatings | 12 Oct 2026 | Food Chem. Toxicol. | 12 Oct 2026 | PR Newswire",
+        "row": 132,
+        "url": "https://pfascentral.org/",
+        "vp_id": 6475025
+      },
+      {
+        "description": "VIII-787 Lithuania Law on Waste Management",
+        "note": "added: (2020-02-18-2020-06-30) | (2020-11-04-2020-12-31) | (2021-11-13-2021-12-31); removed: ( | ( | (",
+        "row": 176,
+        "url": "https://e-seimas.lrs.lt/portal/legalActEditions/lt/TAD/TAIS.59267",
+        "vp_id": 7550943
+      }
+    ],
+    "checked": 213,
+    "date": "2026-10-21",
+    "dead": 10,
+    "dead_links": [
+      {
+        "description": "Fees  ERP Portugal - EN",
+        "note": "404 - Page not found - ERP Global",
+        "row": 13,
+        "url": "https://erp-recycling.org/en-pt/fees/",
+        "vp_id": 2913504
+      },
+      {
+        "description": "Environmental contribution",
+        "note": "Page Not Found - Conai",
+        "row": 14,
+        "url": "http://www.conai.org/en/businesses/environmental-contribution/",
+        "vp_id": 2913511
+      },
+      {
+        "description": "BlyBatteriRetur | taganden",
+        "note": "Sidan hittades inte - Batteriretur",
+        "row": 35,
+        "url": "https://blybatteriretur.se/producent/ataganden/",
+        "vp_id": 3033758
+      },
+      {
+        "description": "Extended Producer Responsibility - EPR - Polyco",
+        "note": "Sorry, the page you are looking for does not exist.",
+        "row": 55,
+        "url": "https://www.polyco.co.za/extended-producer-responsibility/",
+        "vp_id": 4324364
+      },
+      {
+        "description": "Extended Producer Responsibility Fees - Fibre Circle",
+        "note": "The requested URL was not found on this server.",
+        "row": 56,
+        "url": "https://fibrecircle.co.za/epr-fees/",
+        "vp_id": 4431158
+      },
+      {
+        "description": "Deforestation FAQs",
+        "note": "The file or folder does not exists.",
+        "row": 65,
+        "url": "https://circabc.europa.eu/ui/group/34861680-e799-4d7c-bbad-da83c45da458/library/e126f816-844b-41a9-89ef-cb2a33b6aa56/details",
+        "vp_id": 4965563
+      },
+      {
+        "description": "EUDR Info - API details for Noud (EU Circabc)",
+        "note": "The file or folder does not exists.",
+        "row": 161,
+        "url": "https://circabc.europa.eu/ui/group/34861680-e799-4d7c-bbad-da83c45da458/library/6d251428-9ddc-44df-9e2b-2540fd82f8eb/details",
+        "vp_id": 6910501
+      },
+      {
+        "description": "Exemptions list - validity and rolling plan",
+        "note": "Page not found | Environment",
+        "row": 172,
+        "url": "https://environment.ec.europa.eu/document/f4bd701f-7c2c-4d52-9a03-dc91866e6c61_en",
+        "vp_id": 7383164
+      },
+      {
+        "description": "El-Kretsen",
+        "note": "Page not found – El-Kretsen",
+        "row": 186,
+        "url": "https://www.el-kretsen.se/product-list-and-fees?lang=en",
+        "vp_id": 7820182
+      },
+      {
+        "description": "EUDR Info - FAQs (EU Circabc)",
+        "note": "The file or folder does not exists.",
+        "row": 187,
+        "url": "https://circabc.europa.eu/ui/group/34861680-e799-4d7c-bbad-da83c45da458/library/e126f816-844b-41a9-89ef-cb2a33b6aa56/details",
+        "vp_id": 7885990
+      }
+    ],
+    "finished_at": "2026-10-21T14:10:14.294880Z",
+    "gaps": 5,
+    "gaps_list": [
+      {
+        "description": "-",
+        "error": "<urlopen error timed out> | playwright: playwright: Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://www.ecommunity-erp.co.il/%d7%99%d7%a6%d7%a8%d7%a0%d7%99%d7%9d-%d7%95%d7%99%d7%91%d7%95%d7%90%d7%a0%d7%99%d7%9d/%d7%98%d7%91%d7%9c% | flaresolverr: flaresolverr unreachable: timed out",
+        "row": 42,
+        "url": "https://www.ecommunity-erp.co.il/%d7%99%d7%a6%d7%a8%d7%a0%d7%99%d7%9d-%d7%95%d7%99%d7%91%d7%95%d7%90%d7%a0%d7%99%d7%9d/%d7%98%d7%91%d7%9c%d7%aa-%d7%93%d7%9e%d7%99-%d7%98%d7%99%d7%a4%d7%95%d7%9c/",
+        "vp_id": 3164928
+      },
+      {
+        "description": "Ecologic",
+        "error": "<urlopen error [Errno 111] Connection refused> | playwright: playwright: Page.goto: net::ERR_CONNECTION_REFUSED at https://www.ecologic-france.com/professionnels/eco-contribution-deee-dea-2018-19.html\nCall log:\nnavigating to \"https://www.ecologic-france.com/professionnels/ | flaresolverr: flaresolverr unreachable: HTTP Error 500: Internal Server Error",
+        "row": 51,
+        "url": "https://www.ecologic-france.com/professionnels/eco-contribution-deee-dea-2018-19.html",
+        "vp_id": 3705456
+      },
+      {
+        "description": "French Sustainability Index",
+        "error": "<urlopen error timed out> | playwright: playwright: Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://www.ecologie.gouv.fr/politiques-publiques/indice-durabilite\", waiting until \"domcontentloaded\"\n | flaresolverr: flaresolverr unreachable: timed out",
+        "row": 119,
+        "url": "https://www.ecologie.gouv.fr/politiques-publiques/indice-durabilite",
+        "vp_id": 6367839
+      },
+      {
+        "description": "French Repairability Index",
+        "error": "<urlopen error timed out> | playwright: playwright: Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://www.ecologie.gouv.fr/politiques-publiques/indice-reparabilite\", waiting until \"domcontentloaded\"\n | flaresolverr: flaresolverr unreachable: timed out",
+        "row": 120,
+        "url": "https://www.ecologie.gouv.fr/politiques-publiques/indice-reparabilite",
+        "vp_id": 6367916
+      },
+      {
+        "description": "VerpackG - Germany Packaging Regulation",
+        "error": "<urlopen error timed out> | playwright: playwright: Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html\", waiting until \"domcontentloaded\"\n | flaresolverr: flaresolverr unreachable: timed out",
+        "row": 193,
+        "url": "https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html",
+        "vp_id": 7941194
+      }
+    ],
+    "issue_error": null,
+    "issue_number": 60,
+    "low_confidence": [
+      {
+        "description": "Product Definitions, Fees & Clarification Protocols  EPRA | ARPE | Electronic Products Recycling Association | Association pour le recyclage des produits lectroniques",
+        "note": "0 characters captured",
+        "row": 5,
+        "url": "https://epra.ca/what-is-a-steward/product-definitions-fees-clarification-protocols",
+        "vp_id": 2913466
+      },
+      {
+        "description": "NWT Electronics Recycling Program | Alberta Recycling",
+        "note": "332 characters captured",
+        "row": 19,
+        "url": "https://www.albertarecycling.ca/nwt-recycling-program/",
+        "vp_id": 2913540
+      },
+      {
+        "description": "Tarifs et supports - Copie France",
+        "note": "77 characters captured",
+        "row": 81,
+        "url": "https://www.copiefrance.fr/fr/faire-sa-declaration/tarifs-et-supports",
+        "vp_id": 5693369
+      },
+      {
+        "description": "The Green Dot rates | Fost Plus",
+        "note": "155 characters captured",
+        "row": 83,
+        "url": "https://www.fostplus.be/en/members/green-dot-rates",
+        "vp_id": 5710976
+      },
+      {
+        "description": "CESI China RoHS News",
+        "note": "133 characters captured",
+        "row": 118,
+        "url": "https://www.cesi.cn/rohs/page/list.jsp?catalog=/001/001-006",
+        "vp_id": 6351528
+      },
+      {
+        "description": "Liste der Beschränkungen - ECHA",
+        "note": "31 characters captured",
+        "row": 148,
+        "url": "https://echa.europa.eu/de/substances-restricted-under-reach",
+        "vp_id": 6710184
+      },
+      {
+        "description": "ECO Synergy - Transparenta preturi si clienti",
+        "note": "0 characters captured",
+        "row": 166,
+        "url": "https://ecosynergy.ro/informatiipublice/",
+        "vp_id": 7191855
+      },
+      {
+        "description": "Legislatie de mediu pentru OIREP - Modificari si actualizari",
+        "note": "0 characters captured",
+        "row": 167,
+        "url": "https://ecosynergy.ro/legislatie-otr-mediu/",
+        "vp_id": 7191886
+      },
+      {
+        "description": "Stichting OPEN",
+        "note": "102 characters captured",
+        "row": 185,
+        "url": "https://www.stichting-open.org/en/producers-importers/",
+        "vp_id": 7820135
+      },
+      {
+        "description": "ECHA CHEM main page",
+        "note": "173 characters captured",
+        "row": 195,
+        "url": "https://chem.echa.europa.eu/",
+        "vp_id": 7993611
+      }
+    ],
+    "new_baseline": 0,
+    "started_at": "2026-10-21T13:21:41.330916Z",
+    "unchanged": 185
   }
 ]
