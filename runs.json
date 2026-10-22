@@ -12953,5 +12953,194 @@
     "new_baseline": 0,
     "started_at": "2026-10-21T13:21:41.330916Z",
     "unchanged": 185
+  },
+  {
+    "changed": 3,
+    "changes": [
+      {
+        "description": "EUDR Info - Due Diligence Information System (European Commission)",
+        "note": "added: [ | [ | ]; removed: Thursday 15 October 2026, 14:00 CEST | Thursday 22 October 2026, 14:00 CEST | Thursday 8 October 2026, 14:00 CEST",
+        "row": 78,
+        "url": "https://green-business.ec.europa.eu/deforestation-regulation-implementation/deforestation-due-diligence-registry_en#training-testing-and-user-manuals",
+        "vp_id": 5692226
+      },
+      {
+        "description": "ESPR FAQ",
+        "note": "added: 1.0 | 1.0 | 1.22 MB",
+        "row": 86,
+        "url": "https://circabc.europa.eu/ui/group/418195ae-4919-45fa-a959-3b695c9aab28/library/25c48e7c-9ce3-41cb-96ac-d2942a8a29d6/details",
+        "vp_id": 5868298
+      },
+      {
+        "description": "Producer News - SK Recycles",
+        "note": "added: 2027 Canada’s Clean50 Top Project Award Goes to SK Recycles and Recycle BC for Flexible Plastics Innovation | October 20, 2026; removed: April 30, 2026 | What happens to Styrofoam after I drop it off to SARCAN?",
+        "row": 134,
+        "url": "https://skrecycles.ca/producers/news/",
+        "vp_id": 6513024
+      }
+    ],
+    "checked": 213,
+    "date": "2026-10-22",
+    "dead": 15,
+    "dead_links": [
+      {
+        "description": "- Afvalfonds verpakkingen",
+        "note": "Page not found | Verpact",
+        "row": 1,
+        "url": "https://www.afvalfondsverpakkingen.nl/en/node/450",
+        "vp_id": 2913449
+      },
+      {
+        "description": "Gertearten",
+        "note": "404-Fehler | stiftung elektro-altgeräte register",
+        "row": 11,
+        "url": "https://www.stiftung-ear.de/de/themen/elektrog/herstellerbevollmaechtigte/kategorien/geraetearten",
+        "vp_id": 2913486
+      },
+      {
+        "description": "Fees  ERP Portugal - EN",
+        "note": "404 - Page not found - ERP Global",
+        "row": 13,
+        "url": "https://erp-recycling.org/en-pt/fees/",
+        "vp_id": 2913504
+      },
+      {
+        "description": "Environmental contribution",
+        "note": "Page Not Found - Conai",
+        "row": 14,
+        "url": "http://www.conai.org/en/businesses/environmental-contribution/",
+        "vp_id": 2913511
+      },
+      {
+        "description": "BlyBatteriRetur | taganden",
+        "note": "Sidan hittades inte - Batteriretur",
+        "row": 35,
+        "url": "https://blybatteriretur.se/producent/ataganden/",
+        "vp_id": 3033758
+      },
+      {
+        "description": "Critical raw materials | Internal Market, Industry, Entrepreneurship and SMEs",
+        "note": "Page not found",
+        "row": 37,
+        "url": "https://ec.europa.eu/growth/sectors/raw-materials/specific-interest/critical_en",
+        "vp_id": 3082893
+      },
+      {
+        "description": "Extended Producer Responsibility - EPR - Polyco",
+        "note": "Sorry, the page you are looking for does not exist.",
+        "row": 55,
+        "url": "https://www.polyco.co.za/extended-producer-responsibility/",
+        "vp_id": 4324364
+      },
+      {
+        "description": "Extended Producer Responsibility Fees - Fibre Circle",
+        "note": "The requested URL was not found on this server.",
+        "row": 56,
+        "url": "https://fibrecircle.co.za/epr-fees/",
+        "vp_id": 4431158
+      },
+      {
+        "description": "Deforestation FAQs",
+        "note": "The file or folder does not exists.",
+        "row": 65,
+        "url": "https://circabc.europa.eu/ui/group/34861680-e799-4d7c-bbad-da83c45da458/library/e126f816-844b-41a9-89ef-cb2a33b6aa56/details",
+        "vp_id": 4965563
+      },
+      {
+        "description": "Normative - Ecoem",
+        "note": "404 Not Found",
+        "row": 115,
+        "url": "https://www.ecoem.it/normative/#batterie",
+        "vp_id": 6310487
+      },
+      {
+        "description": "Normative - Ecoem",
+        "note": "404 Not Found",
+        "row": 116,
+        "url": "https://www.ecoem.it/normative/",
+        "vp_id": 6310700
+      },
+      {
+        "description": "EUDR Info - API details for Noud (EU Circabc)",
+        "note": "The file or folder does not exists.",
+        "row": 161,
+        "url": "https://circabc.europa.eu/ui/group/34861680-e799-4d7c-bbad-da83c45da458/library/6d251428-9ddc-44df-9e2b-2540fd82f8eb/details",
+        "vp_id": 6910501
+      },
+      {
+        "description": "Exemptions list - validity and rolling plan",
+        "note": "Page not found | Environment",
+        "row": 172,
+        "url": "https://environment.ec.europa.eu/document/f4bd701f-7c2c-4d52-9a03-dc91866e6c61_en",
+        "vp_id": 7383164
+      },
+      {
+        "description": "El-Kretsen",
+        "note": "Page not found – El-Kretsen",
+        "row": 186,
+        "url": "https://www.el-kretsen.se/product-list-and-fees?lang=en",
+        "vp_id": 7820182
+      },
+      {
+        "description": "EUDR Info - FAQs (EU Circabc)",
+        "note": "The file or folder does not exists.",
+        "row": 187,
+        "url": "https://circabc.europa.eu/ui/group/34861680-e799-4d7c-bbad-da83c45da458/library/e126f816-844b-41a9-89ef-cb2a33b6aa56/details",
+        "vp_id": 7885990
+      }
+    ],
+    "finished_at": "2026-10-22T14:00:11.392169Z",
+    "gaps": 2,
+    "gaps_list": [
+      {
+        "description": "-",
+        "error": "<urlopen error timed out> | playwright: playwright: Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://www.ecommunity-erp.co.il/%d7%99%d7%a6%d7%a8%d7%a0%d7%99%d7%9d-%d7%95%d7%99%d7%91%d7%95%d7%90%d7%a0%d7%99%d7%9d/%d7%98%d7%91%d7%9c% | flaresolverr: flaresolverr unreachable: timed out",
+        "row": 42,
+        "url": "https://www.ecommunity-erp.co.il/%d7%99%d7%a6%d7%a8%d7%a0%d7%99%d7%9d-%d7%95%d7%99%d7%91%d7%95%d7%90%d7%a0%d7%99%d7%9d/%d7%98%d7%91%d7%9c%d7%aa-%d7%93%d7%9e%d7%99-%d7%98%d7%99%d7%a4%d7%95%d7%9c/",
+        "vp_id": 3164928
+      },
+      {
+        "description": "VerpackG - Germany Packaging Regulation",
+        "error": "<urlopen error timed out> | playwright: playwright: Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html\", waiting until \"domcontentloaded\"\n | flaresolverr: flaresolverr unreachable: timed out",
+        "row": 193,
+        "url": "https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html",
+        "vp_id": 7941194
+      }
+    ],
+    "issue_error": null,
+    "issue_number": 61,
+    "low_confidence": [
+      {
+        "description": "Ecologic",
+        "note": "390 characters captured",
+        "row": 51,
+        "url": "https://www.ecologic-france.com/professionnels/eco-contribution-deee-dea-2018-19.html",
+        "vp_id": 3705456
+      },
+      {
+        "description": "CESI China RoHS News",
+        "note": "133 characters captured",
+        "row": 118,
+        "url": "https://www.cesi.cn/rohs/page/list.jsp?catalog=/001/001-006",
+        "vp_id": 6351528
+      },
+      {
+        "description": "Tarife gestionare DBA - SNRB | Sistemul Naţional De Reciclare Al Bateriilor",
+        "note": "7 characters captured",
+        "row": 168,
+        "url": "https://snrb.org/tarife-gestionare-dba/",
+        "vp_id": 7197185
+      },
+      {
+        "description": "ECHA CHEM main page",
+        "note": "173 characters captured",
+        "row": 195,
+        "url": "https://chem.echa.europa.eu/",
+        "vp_id": 7993611
+      }
+    ],
+    "new_baseline": 0,
+    "started_at": "2026-10-22T13:22:24.086423Z",
+    "unchanged": 191
   }
 ]
