@@ -13932,5 +13932,194 @@
     "new_baseline": 0,
     "started_at": "2026-10-26T14:45:21.439714Z",
     "unchanged": 199
+  },
+  {
+    "changed": 6,
+    "changes": [
+      {
+        "description": "Registry of SVHC intentions until outcome - ECHA",
+        "note": "added: The regulatory information contained in this list is available in our chemicals database, ECHA CHEM. To guarantee a smooth transition, we will also maintain up ; removed: The regulatory information contained in this list is available in our chemicals database, ECHA CHEM. To guarantee a smooth transition, we will also maintain up ",
+        "row": 72,
+        "url": "https://echa.europa.eu/registry-of-svhc-intentions",
+        "vp_id": 5289196
+      },
+      {
+        "description": "Environment Law No. 2872. | FAOLEX",
+        "note": "added: 2026-05-07 | 2026-06-22 | 22 May 2026; removed: 15 July 2023 | Record updated on 2024-03-20 | The consolidated version of the Law, as last amended by the Law No. 7456 of 2023, is attached.",
+        "row": 76,
+        "url": "https://www.fao.org/faolex/results/details/en/c/LEX-FAOC007700/",
+        "vp_id": 5608865
+      },
+      {
+        "description": "Normative - Ecoem",
+        "note": "added: ( | ) | , oppure possono consegnare le proprie pile esauste presso i rivenditori che le ritireranno gratuitamente e senza obbligo di acquistarne di nuove.; removed: 404 Not Found | Not Found | The requested URL /normative/ was not found on this server.",
+        "row": 115,
+        "url": "https://www.ecoem.it/normative/#batterie",
+        "vp_id": 6310487
+      },
+      {
+        "description": "Normative - Ecoem",
+        "note": "added: ( | ) | , oppure possono consegnare le proprie pile esauste presso i rivenditori che le ritireranno gratuitamente e senza obbligo di acquistarne di nuove.; removed: 404 Not Found | Not Found | The requested URL /normative/ was not found on this server.",
+        "row": 116,
+        "url": "https://www.ecoem.it/normative/",
+        "vp_id": 6310700
+      },
+      {
+        "description": "EUDR Info - FAQs (EU Circabc)",
+        "note": "removed: . | [ | ]",
+        "row": 187,
+        "url": "https://circabc.europa.eu/ui/group/34861680-e799-4d7c-bbad-da83c45da458/library/e126f816-844b-41a9-89ef-cb2a33b6aa56/details",
+        "vp_id": 7885990
+      },
+      {
+        "description": "EU Digital Product Passports - Main Web Page",
+        "note": "removed: 1 min read | 25 July 2025 | Respond by 27 August to help shape the future of product information along the entire value chain.",
+        "row": 209,
+        "url": "https://single-market-economy.ec.europa.eu/single-market/digital-product-passport_en#what-is-a-digital-product-passport",
+        "vp_id": 9040811
+      }
+    ],
+    "checked": 213,
+    "date": "2026-10-27",
+    "dead": 12,
+    "dead_links": [
+      {
+        "description": "- Afvalfonds verpakkingen",
+        "note": "Page not found | Verpact",
+        "row": 1,
+        "url": "https://www.afvalfondsverpakkingen.nl/en/node/450",
+        "vp_id": 2913449
+      },
+      {
+        "description": "Gertearten",
+        "note": "404-Fehler | stiftung elektro-altgeräte register",
+        "row": 11,
+        "url": "https://www.stiftung-ear.de/de/themen/elektrog/herstellerbevollmaechtigte/kategorien/geraetearten",
+        "vp_id": 2913486
+      },
+      {
+        "description": "Environmental contribution",
+        "note": "Page Not Found - Conai",
+        "row": 14,
+        "url": "http://www.conai.org/en/businesses/environmental-contribution/",
+        "vp_id": 2913511
+      },
+      {
+        "description": "BlyBatteriRetur | taganden",
+        "note": "Sidan hittades inte - Batteriretur",
+        "row": 35,
+        "url": "https://blybatteriretur.se/producent/ataganden/",
+        "vp_id": 3033758
+      },
+      {
+        "description": "Critical raw materials | Internal Market, Industry, Entrepreneurship and SMEs",
+        "note": "Page not found",
+        "row": 37,
+        "url": "https://ec.europa.eu/growth/sectors/raw-materials/specific-interest/critical_en",
+        "vp_id": 3082893
+      },
+      {
+        "description": "Extended Producer Responsibility - EPR - Polyco",
+        "note": "Sorry, the page you are looking for does not exist.",
+        "row": 55,
+        "url": "https://www.polyco.co.za/extended-producer-responsibility/",
+        "vp_id": 4324364
+      },
+      {
+        "description": "Extended Producer Responsibility Fees - Fibre Circle",
+        "note": "The requested URL was not found on this server.",
+        "row": 56,
+        "url": "https://fibrecircle.co.za/epr-fees/",
+        "vp_id": 4431158
+      },
+      {
+        "description": "Deforestation FAQs",
+        "note": "The file or folder does not exists.",
+        "row": 65,
+        "url": "https://circabc.europa.eu/ui/group/34861680-e799-4d7c-bbad-da83c45da458/library/e126f816-844b-41a9-89ef-cb2a33b6aa56/details",
+        "vp_id": 4965563
+      },
+      {
+        "description": "EUDR Info - API details for Noud (EU Circabc)",
+        "note": "The file or folder does not exists.",
+        "row": 161,
+        "url": "https://circabc.europa.eu/ui/group/34861680-e799-4d7c-bbad-da83c45da458/library/6d251428-9ddc-44df-9e2b-2540fd82f8eb/details",
+        "vp_id": 6910501
+      },
+      {
+        "description": "Exemptions list - validity and rolling plan",
+        "note": "Page not found | Environment",
+        "row": 172,
+        "url": "https://environment.ec.europa.eu/document/f4bd701f-7c2c-4d52-9a03-dc91866e6c61_en",
+        "vp_id": 7383164
+      },
+      {
+        "description": "El-Kretsen",
+        "note": "Page not found – El-Kretsen",
+        "row": 186,
+        "url": "https://www.el-kretsen.se/product-list-and-fees?lang=en",
+        "vp_id": 7820182
+      },
+      {
+        "description": "VerpackG - Germany Packaging Regulation",
+        "note": "The requested URL was not found on this server.",
+        "row": 193,
+        "url": "https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html",
+        "vp_id": 7941194
+      }
+    ],
+    "finished_at": "2026-10-27T14:23:43.017524Z",
+    "gaps": 1,
+    "gaps_list": [
+      {
+        "description": "-",
+        "error": "<urlopen error timed out> | playwright: playwright: Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://www.ecommunity-erp.co.il/%d7%99%d7%a6%d7%a8%d7%a0%d7%99%d7%9d-%d7%95%d7%99%d7%91%d7%95%d7%90%d7%a0%d7%99%d7%9d/%d7%98%d7%91%d7%9c% | flaresolverr: flaresolverr unreachable: timed out",
+        "row": 42,
+        "url": "https://www.ecommunity-erp.co.il/%d7%99%d7%a6%d7%a8%d7%a0%d7%99%d7%9d-%d7%95%d7%99%d7%91%d7%95%d7%90%d7%a0%d7%99%d7%9d/%d7%98%d7%91%d7%9c%d7%aa-%d7%93%d7%9e%d7%99-%d7%98%d7%99%d7%a4%d7%95%d7%9c/",
+        "vp_id": 3164928
+      }
+    ],
+    "issue_error": null,
+    "issue_number": 65,
+    "low_confidence": [
+      {
+        "description": "Fees  ERP Portugal - EN",
+        "note": "242 characters captured",
+        "row": 13,
+        "url": "https://erp-recycling.org/en-pt/fees/",
+        "vp_id": 2913504
+      },
+      {
+        "description": "Ecologic",
+        "note": "390 characters captured",
+        "row": 51,
+        "url": "https://www.ecologic-france.com/professionnels/eco-contribution-deee-dea-2018-19.html",
+        "vp_id": 3705456
+      },
+      {
+        "description": "CESI China RoHS News",
+        "note": "133 characters captured",
+        "row": 118,
+        "url": "https://www.cesi.cn/rohs/page/list.jsp?catalog=/001/001-006",
+        "vp_id": 6351528
+      },
+      {
+        "description": "EUDR Info - FAQs (EU Circabc)",
+        "note": "7 characters captured",
+        "row": 187,
+        "url": "https://circabc.europa.eu/ui/group/34861680-e799-4d7c-bbad-da83c45da458/library/e126f816-844b-41a9-89ef-cb2a33b6aa56/details",
+        "vp_id": 7885990
+      },
+      {
+        "description": "ECHA CHEM main page",
+        "note": "173 characters captured",
+        "row": 195,
+        "url": "https://chem.echa.europa.eu/",
+        "vp_id": 7993611
+      }
+    ],
+    "new_baseline": 0,
+    "started_at": "2026-10-27T13:51:48.767442Z",
+    "unchanged": 194
   }
 ]
