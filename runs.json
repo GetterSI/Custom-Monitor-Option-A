@@ -14121,5 +14121,208 @@
     "new_baseline": 0,
     "started_at": "2026-10-27T13:51:48.767442Z",
     "unchanged": 194
+  },
+  {
+    "changed": 8,
+    "changes": [
+      {
+        "description": "FAOLEX Database | Food and Agriculture Organization of the United Nations",
+        "note": "added: Date of text: 07 October 2026 | Seychelles: Seychelles Agriculture Development Agency Act, no. 15 of 2026.; removed: Cuba: Decreto-Ley Nº 127/2026 - De la Medicina Veterinaria. | Date of text: 22 July 2026",
+        "row": 57,
+        "url": "https://www.fao.org/faolex/en",
+        "vp_id": 4493282
+      },
+      {
+        "description": "The Red List - Living Future",
+        "note": "added: 1 | ? Email | A Class-based Approach; removed: #17. Lead sulfate | #28-30. Category 1 carcinogens, mutagens, and reproductive toxicants (restricted at various defined concentrations in mixtures and articles supplied to the gene | #31. Creosote",
+        "row": 127,
+        "url": "https://living-future.org/red-list/",
+        "vp_id": 6417425
+      },
+      {
+        "description": "PFAS Central",
+        "note": "added: 21 Oct 2026 | Wisconsin Public Radio | 22 Oct 2026 | 22 Oct 2026 | The National Law Review; removed: 12 Oct 2026 | ACS ES&T Water | 12 Oct 2026 | Water Research | 14 Oct 2026 | News Center Maine",
+        "row": 132,
+        "url": "https://pfascentral.org/",
+        "vp_id": 6475025
+      },
+      {
+        "description": "Ako sa stať klientom | NATUR-PACK, a.s.",
+        "note": "added: Partnerské organizácie v Európe | Partnerské organizácie v Európe | Prehľad našich partnerských organizácií v európskych krajinách.; removed: Pomôže vám náš online dotazník. | Som výrobca obalov?",
+        "row": 150,
+        "url": "https://www.naturpack.sk/sluzby/vyrobcovia/ako-sa-stat-klientom/",
+        "vp_id": 6715498
+      },
+      {
+        "description": "Základné povinnosti | NATUR-PACK, a.s.",
+        "note": "added: Partnerské organizácie v Európe | Prehľad našich partnerských organizácií v európskych krajinách.; removed: Pomôže vám náš online dotazník. | Som výrobca obalov?",
+        "row": 151,
+        "url": "https://www.naturpack.sk/sluzby/vyrobcovia/obaly/zakladne-povinnosti/",
+        "vp_id": 6715506
+      },
+      {
+        "description": "Living Building Challenge - Red List",
+        "note": "added: 1 | ? Email | A Class-based Approach; removed: #17. Lead sulfate | #28-30. Category 1 carcinogens, mutagens, and reproductive toxicants (restricted at various defined concentrations in mixtures and articles supplied to the gene | #31. Creosote",
+        "row": 157,
+        "url": "https://living-future.org/red-list/",
+        "vp_id": 6794445
+      },
+      {
+        "description": "Latest news | Ecosurety",
+        "note": "added: 26 October 2026 | EU delays packaging labelling rules to allow for consultation | International; removed: 8 July 2026 | EPR | Packaging",
+        "row": 206,
+        "url": "https://www.ecosurety.com/news",
+        "vp_id": 8693410
+      },
+      {
+        "description": "EU Digital Product Passports - Batteries Information Page",
+        "note": "added: (last update 19 October 2026). | A clarification on the applicability of the data points 51-66 only to specific types of industrial batteries; | A clarification on the use of histograms for data points 70 and 71.; removed: (last update 15 August 2026. Changes made: Clarified the applicability date for points 19 and 20 to 23. For points 16 and 25 it was explained why they are not t",
+        "row": 212,
+        "url": "https://single-market-economy.ec.europa.eu/single-market/digital-product-passport/batteries_en",
+        "vp_id": 9040838
+      }
+    ],
+    "checked": 213,
+    "date": "2026-10-28",
+    "dead": 13,
+    "dead_links": [
+      {
+        "description": "- Afvalfonds verpakkingen",
+        "note": "Page not found | Verpact",
+        "row": 1,
+        "url": "https://www.afvalfondsverpakkingen.nl/en/node/450",
+        "vp_id": 2913449
+      },
+      {
+        "description": "Gertearten",
+        "note": "404-Fehler | stiftung elektro-altgeräte register",
+        "row": 11,
+        "url": "https://www.stiftung-ear.de/de/themen/elektrog/herstellerbevollmaechtigte/kategorien/geraetearten",
+        "vp_id": 2913486
+      },
+      {
+        "description": "Fees  ERP Portugal - EN",
+        "note": "404 - Page not found - ERP Global",
+        "row": 13,
+        "url": "https://erp-recycling.org/en-pt/fees/",
+        "vp_id": 2913504
+      },
+      {
+        "description": "Environmental contribution",
+        "note": "Page Not Found - Conai",
+        "row": 14,
+        "url": "http://www.conai.org/en/businesses/environmental-contribution/",
+        "vp_id": 2913511
+      },
+      {
+        "description": "BlyBatteriRetur | taganden",
+        "note": "Sidan hittades inte - Batteriretur",
+        "row": 35,
+        "url": "https://blybatteriretur.se/producent/ataganden/",
+        "vp_id": 3033758
+      },
+      {
+        "description": "Critical raw materials | Internal Market, Industry, Entrepreneurship and SMEs",
+        "note": "Page not found",
+        "row": 37,
+        "url": "https://ec.europa.eu/growth/sectors/raw-materials/specific-interest/critical_en",
+        "vp_id": 3082893
+      },
+      {
+        "description": "Extended Producer Responsibility - EPR - Polyco",
+        "note": "Sorry, the page you are looking for does not exist.",
+        "row": 55,
+        "url": "https://www.polyco.co.za/extended-producer-responsibility/",
+        "vp_id": 4324364
+      },
+      {
+        "description": "Extended Producer Responsibility Fees - Fibre Circle",
+        "note": "The requested URL was not found on this server.",
+        "row": 56,
+        "url": "https://fibrecircle.co.za/epr-fees/",
+        "vp_id": 4431158
+      },
+      {
+        "description": "Deforestation FAQs",
+        "note": "The file or folder does not exists.",
+        "row": 65,
+        "url": "https://circabc.europa.eu/ui/group/34861680-e799-4d7c-bbad-da83c45da458/library/e126f816-844b-41a9-89ef-cb2a33b6aa56/details",
+        "vp_id": 4965563
+      },
+      {
+        "description": "EUDR Info - API details for Noud (EU Circabc)",
+        "note": "The file or folder does not exists.",
+        "row": 161,
+        "url": "https://circabc.europa.eu/ui/group/34861680-e799-4d7c-bbad-da83c45da458/library/6d251428-9ddc-44df-9e2b-2540fd82f8eb/details",
+        "vp_id": 6910501
+      },
+      {
+        "description": "Exemptions list - validity and rolling plan",
+        "note": "Page not found | Environment",
+        "row": 172,
+        "url": "https://environment.ec.europa.eu/document/f4bd701f-7c2c-4d52-9a03-dc91866e6c61_en",
+        "vp_id": 7383164
+      },
+      {
+        "description": "El-Kretsen",
+        "note": "Page not found – El-Kretsen",
+        "row": 186,
+        "url": "https://www.el-kretsen.se/product-list-and-fees?lang=en",
+        "vp_id": 7820182
+      },
+      {
+        "description": "EUDR Info - FAQs (EU Circabc)",
+        "note": "The file or folder does not exists.",
+        "row": 187,
+        "url": "https://circabc.europa.eu/ui/group/34861680-e799-4d7c-bbad-da83c45da458/library/e126f816-844b-41a9-89ef-cb2a33b6aa56/details",
+        "vp_id": 7885990
+      }
+    ],
+    "finished_at": "2026-10-28T15:24:25.819075Z",
+    "gaps": 2,
+    "gaps_list": [
+      {
+        "description": "-",
+        "error": "<urlopen error timed out> | playwright: playwright: Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://www.ecommunity-erp.co.il/%d7%99%d7%a6%d7%a8%d7%a0%d7%99%d7%9d-%d7%95%d7%99%d7%91%d7%95%d7%90%d7%a0%d7%99%d7%9d/%d7%98%d7%91%d7%9c% | flaresolverr: flaresolverr unreachable: timed out",
+        "row": 42,
+        "url": "https://www.ecommunity-erp.co.il/%d7%99%d7%a6%d7%a8%d7%a0%d7%99%d7%9d-%d7%95%d7%99%d7%91%d7%95%d7%90%d7%a0%d7%99%d7%9d/%d7%98%d7%91%d7%9c%d7%aa-%d7%93%d7%9e%d7%99-%d7%98%d7%99%d7%a4%d7%95%d7%9c/",
+        "vp_id": 3164928
+      },
+      {
+        "description": "VerpackG - Germany Packaging Regulation",
+        "error": "<urlopen error timed out> | playwright: playwright: Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html\", waiting until \"domcontentloaded\"\n | flaresolverr: flaresolverr unreachable: timed out",
+        "row": 193,
+        "url": "https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html",
+        "vp_id": 7941194
+      }
+    ],
+    "issue_error": null,
+    "issue_number": 66,
+    "low_confidence": [
+      {
+        "description": "Ecologic",
+        "note": "390 characters captured",
+        "row": 51,
+        "url": "https://www.ecologic-france.com/professionnels/eco-contribution-deee-dea-2018-19.html",
+        "vp_id": 3705456
+      },
+      {
+        "description": "CESI China RoHS News",
+        "note": "12 characters captured",
+        "row": 118,
+        "url": "https://www.cesi.cn/rohs/page/list.jsp?catalog=/001/001-006",
+        "vp_id": 6351528
+      },
+      {
+        "description": "ECHA CHEM main page",
+        "note": "173 characters captured",
+        "row": 195,
+        "url": "https://chem.echa.europa.eu/",
+        "vp_id": 7993611
+      }
+    ],
+    "new_baseline": 0,
+    "started_at": "2026-10-28T14:46:38.636937Z",
+    "unchanged": 193
   }
 ]
