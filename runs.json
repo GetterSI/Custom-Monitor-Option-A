@@ -16767,5 +16767,215 @@
     "new_baseline": 0,
     "started_at": "2026-11-10T15:59:52.300911Z",
     "unchanged": 195
+  },
+  {
+    "changed": 7,
+    "changes": [
+      {
+        "description": "ESPR FAQ",
+        "note": "changes on every run (volatile) - added: 1.0 | 1.0 | 1.22 MB",
+        "row": 86,
+        "url": "https://circabc.europa.eu/ui/group/418195ae-4919-45fa-a959-3b695c9aab28/library/25c48e7c-9ce3-41cb-96ac-d2942a8a29d6/details",
+        "vp_id": 5868298
+      },
+      {
+        "description": "Germany WEEE",
+        "note": "added: 10. November 2026 | 9. November 2026 | B2C-Hersteller: Jetzt Garantieaktualisierung 2027 beantragen!; removed: 12. Oktober 2026 | 22. Oktober 2026 | EAR schaltet Verzeichnis der Garantieanbieter frei",
+        "row": 88,
+        "url": "https://www.elektrogesetz.de/bundeskabinett-elektrog4/",
+        "vp_id": 5870270
+      },
+      {
+        "description": "Proposition 65 - OEHHA",
+        "note": "removed: Fri, 10/09/2026 - 12:00pm | Mon, 11/09/2026 - 12:00pm | Notice of Intent to List Chemicals by the Labor Code Mechanism: Atrazine",
+        "row": 103,
+        "url": "https://oehha.ca.gov/proposition-65",
+        "vp_id": 6174560
+      },
+      {
+        "description": "News - Paristokierrätys",
+        "note": "added: 10 | Recser and Recser Industrial approved as producer responsibility organisations | Recser Oy and Recser Industrial Oy have received approvals as producer responsibility organisations in accordance with the EU Battery Regulation...; removed: 20 | Webinar Provides Answers: Durability, Safety, Labeling, and Information Requirements for Batteries | What does the EU Battery Regulation require",
+        "row": 109,
+        "url": "https://www.paristokierratys.fi/en/news/",
+        "vp_id": 6206541
+      },
+      {
+        "description": "PFAS Central",
+        "note": "added: 2 Nov 2026 | BMJ | 3 Nov 2026 | 31 Oct 2026 | MDPI; removed: \"This is not a health study or a research study where we're looking for some kind of association between exposure and cancer risk,” Michigan Department of Healt | 14 Oct 2026 | 2 Nov 2026 | NJ Biz",
+        "row": 132,
+        "url": "https://pfascentral.org/",
+        "vp_id": 6475025
+      },
+      {
+        "description": "CPCB | Central Pollution Control Board",
+        "note": "changes on every run (volatile) - added: Last update on website : 2026-11-12 10:31:03; removed: 08-10-2026 | 08-10-2026 | 3",
+        "row": 133,
+        "url": "https://cpcb.nic.in/latest-cpcb.php",
+        "vp_id": 6495233
+      },
+      {
+        "description": "EU Digital Product Passports - Main Web Page",
+        "note": "added: 26 | DDP for Consumers | DDP for Repairers and recyclers; removed: 07 | Consumers | Economic operators",
+        "row": 209,
+        "url": "https://single-market-economy.ec.europa.eu/single-market/digital-product-passport_en#what-is-a-digital-product-passport",
+        "vp_id": 9040811
+      }
+    ],
+    "checked": 213,
+    "date": "2026-11-12",
+    "dead": 15,
+    "dead_links": [
+      {
+        "description": "- Afvalfonds verpakkingen",
+        "note": "Page not found | Verpact",
+        "row": 1,
+        "url": "https://www.afvalfondsverpakkingen.nl/en/node/450",
+        "vp_id": 2913449
+      },
+      {
+        "description": "Gertearten",
+        "note": "404-Fehler | stiftung elektro-altgeräte register",
+        "row": 11,
+        "url": "https://www.stiftung-ear.de/de/themen/elektrog/herstellerbevollmaechtigte/kategorien/geraetearten",
+        "vp_id": 2913486
+      },
+      {
+        "description": "Fees  ERP Portugal - EN",
+        "note": "404 - Page not found - ERP Global",
+        "row": 13,
+        "url": "https://erp-recycling.org/en-pt/fees/",
+        "vp_id": 2913504
+      },
+      {
+        "description": "Environmental contribution",
+        "note": "Page Not Found - Conai",
+        "row": 14,
+        "url": "http://www.conai.org/en/businesses/environmental-contribution/",
+        "vp_id": 2913511
+      },
+      {
+        "description": "Batteries - Environment - European Commission",
+        "note": "Page not found",
+        "row": 31,
+        "url": "https://ec.europa.eu/environment/waste/batteries/legislation.htm",
+        "vp_id": 2913590
+      },
+      {
+        "description": "BlyBatteriRetur | taganden",
+        "note": "Sidan hittades inte - Batteriretur",
+        "row": 35,
+        "url": "https://blybatteriretur.se/producent/ataganden/",
+        "vp_id": 3033758
+      },
+      {
+        "description": "Ressources documentaires  Screlec",
+        "note": "Error 404 | Page not found",
+        "row": 36,
+        "url": "https://www.screlec.fr/ressources-documentaires/",
+        "vp_id": 3053367
+      },
+      {
+        "description": "Critical raw materials | Internal Market, Industry, Entrepreneurship and SMEs",
+        "note": "Page not found",
+        "row": 37,
+        "url": "https://ec.europa.eu/growth/sectors/raw-materials/specific-interest/critical_en",
+        "vp_id": 3082893
+      },
+      {
+        "description": "Extended Producer Responsibility - EPR - Polyco",
+        "note": "Sorry, the page you are looking for does not exist.",
+        "row": 55,
+        "url": "https://www.polyco.co.za/extended-producer-responsibility/",
+        "vp_id": 4324364
+      },
+      {
+        "description": "Extended Producer Responsibility Fees - Fibre Circle",
+        "note": "The requested URL was not found on this server.",
+        "row": 56,
+        "url": "https://fibrecircle.co.za/epr-fees/",
+        "vp_id": 4431158
+      },
+      {
+        "description": "Deforestation FAQs",
+        "note": "The file or folder does not exists.",
+        "row": 65,
+        "url": "https://circabc.europa.eu/ui/group/34861680-e799-4d7c-bbad-da83c45da458/library/e126f816-844b-41a9-89ef-cb2a33b6aa56/details",
+        "vp_id": 4965563
+      },
+      {
+        "description": "Exemptions list - validity and rolling plan",
+        "note": "Page not found | Environment",
+        "row": 172,
+        "url": "https://environment.ec.europa.eu/document/f4bd701f-7c2c-4d52-9a03-dc91866e6c61_en",
+        "vp_id": 7383164
+      },
+      {
+        "description": "El-Kretsen",
+        "note": "Page not found – El-Kretsen",
+        "row": 186,
+        "url": "https://www.el-kretsen.se/product-list-and-fees?lang=en",
+        "vp_id": 7820182
+      },
+      {
+        "description": "EUDR Info - FAQs (EU Circabc)",
+        "note": "The file or folder does not exists.",
+        "row": 187,
+        "url": "https://circabc.europa.eu/ui/group/34861680-e799-4d7c-bbad-da83c45da458/library/e126f816-844b-41a9-89ef-cb2a33b6aa56/details",
+        "vp_id": 7885990
+      },
+      {
+        "description": "VerpackG - Germany Packaging Regulation",
+        "note": "The requested URL was not found on this server.",
+        "row": 193,
+        "url": "https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html",
+        "vp_id": 7941194
+      }
+    ],
+    "finished_at": "2026-11-12T17:01:51.280865Z",
+    "gaps": 1,
+    "gaps_list": [
+      {
+        "description": "-",
+        "error": "<urlopen error timed out> | playwright: playwright: Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://www.ecommunity-erp.co.il/%d7%99%d7%a6%d7%a8%d7%a0%d7%99%d7%9d-%d7%95%d7%99%d7%91%d7%95%d7%90%d7%a0%d7%99%d7%9d/%d7%98%d7%91%d7%9c% | flaresolverr: flaresolverr unreachable: timed out",
+        "row": 42,
+        "url": "https://www.ecommunity-erp.co.il/%d7%99%d7%a6%d7%a8%d7%a0%d7%99%d7%9d-%d7%95%d7%99%d7%91%d7%95%d7%90%d7%a0%d7%99%d7%9d/%d7%98%d7%91%d7%9c%d7%aa-%d7%93%d7%9e%d7%99-%d7%98%d7%99%d7%a4%d7%95%d7%9c/",
+        "vp_id": 3164928
+      }
+    ],
+    "issue_error": null,
+    "issue_number": 80,
+    "low_confidence": [
+      {
+        "description": "Recycle Yukon Electronics",
+        "note": "67 characters captured",
+        "row": 20,
+        "url": "http://recycleyukonelectronics.ca/",
+        "vp_id": 2913544
+      },
+      {
+        "description": "Ecologic",
+        "note": "315 characters captured",
+        "row": 51,
+        "url": "https://www.ecologic-france.com/professionnels/eco-contribution-deee-dea-2018-19.html",
+        "vp_id": 3705456
+      },
+      {
+        "description": "CESI China RoHS News",
+        "note": "133 characters captured",
+        "row": 118,
+        "url": "https://www.cesi.cn/rohs/page/list.jsp?catalog=/001/001-006",
+        "vp_id": 6351528
+      },
+      {
+        "description": "ECHA CHEM main page",
+        "note": "173 characters captured",
+        "row": 195,
+        "url": "https://chem.echa.europa.eu/",
+        "vp_id": 7993611
+      }
+    ],
+    "new_baseline": 0,
+    "started_at": "2026-11-12T16:29:25.312410Z",
+    "unchanged": 195
   }
 ]
